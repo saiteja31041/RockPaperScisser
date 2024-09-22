@@ -37,5 +37,4 @@ A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. The use
     ```
 3. Open the `index.html` file in your browser to play the game.
 
-## Project Structure 📂
 
